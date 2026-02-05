@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Timothy Nelson</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="header">
+    <div class="logo">TIMOTHY NELSON</div>
+    <nav class="nav">
+      <a href="#" class="active">Home</a>
+      <a href="#">About</a>
+      <a href="#">Portfolio</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <div class="text-content">
+      <h1>Developer, Artist,<br>Traveler</h1>
+      <p>
+        Very ambitious outgoing person who loves to travel and create artwork around the world.
+      </p>
+
+      <blockquote>
+        <p>
+          "Every sunrise brings with it a new chance to be the person
+          you were meant to be."
+        </p>
+        <span>– Agnes Woods</span>
+      </blockquote>
+    </div>
+
+    <div class="image-content">
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQGiHm2Psqg5ww/profile-displayphoto-crop_800_800/B56Zus.IEIIYAI-/0/1768133530490?e=1772064000&v=beta&t=x4SV5mKCUwVHENQu4M4_SDxm-H9MWcb2Hhis2HJ8Kyo" alt="Profile photo">
+    </div>
+  </main>
+
+  <footer class="footer">
+    ©2026 Timothy Nelson
+  </footer>
+
+</body>
+</html>
